@@ -1,3 +1,18 @@
 [submodule "tilman"]
 	path = tilman
 	url = git@github.com:tstehr/recipes.git
+[submodule "AberDerBart"]
+	path = AberDerBart
+	url = git@github.com:AberDerBart/recipes.git
+[submodule "dasnessie"]
+	path = dasnessie
+	url = git@github.com:dasnessie/recipes.git
+[submodule "fscholdei"]
+	path = fscholdei
+	url = git@github.com:fscholdei/recipes.git
+[submodule "sonea-pm8"]
+	path = sonea-pm8
+	url = git@github.com:sonea-pm8/recipes.git
+[submodule "dadada"]
+	path = dadada
+	url = git@github.com:dadada/recipes.git
