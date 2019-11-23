@@ -1,0 +1,3 @@
+[submodule "tilman"]
+	path = tilman
+	url = git@github.com:tstehr/recipes.git
