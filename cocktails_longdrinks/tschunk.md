@@ -4,7 +4,7 @@
 
 ---
 
-- *4 cl* Havanna Club
+- *4 cl* Havana Club
 - *1 EL* Rohrzucker
 - *4/8* Limetten (Bio)
 - *200 ml* Flora Power
@@ -17,4 +17,3 @@ Limette mit Zucker stößeln, Eiswürfel und Rum dazugeben, mit Mate aufgießen.
 Mit Strohhalm servieren.
 
 Virgin Tschunk: Ohne Rum.
-
